@@ -6,6 +6,7 @@
 // Input: nums = [0, 1, 4, 0, 5, 2]
 
 // Output: [1, 4, 5, 2, 0, 0]
+// 283 on leetcode
 
 class Solution {
     moveZeroes(nums) {
